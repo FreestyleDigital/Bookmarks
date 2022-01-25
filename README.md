@@ -1,5 +1,5 @@
 # bookmarks
-:books: A list of freestyle bookmarks. These help create the ingredients for our websites.
+:books: A list of our bookmarks. These help create the ingredients for our websites.
 
 ## Tools
 
